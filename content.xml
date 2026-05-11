@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260511231042YCIYHC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605112310427DE6KC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>“UN VIAJE  INTERACTIVO POR LA  EDAD MODERNA”</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Sara Castro López</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>La situación de aprendizaje aborda la Edad Moderna como un periodo de grandes cambios históricos, centrándose en los descubrimientos, personajes relevantes y formas de vida de la época. Está destinada a 5º de Educación Primaria y se lleva a cabo desde el área de Conocimiento del Medio.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778530720114</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp1n9qfi-xk6vlzq9n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN E INTRODUCCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN E INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN E INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfi-xk6vlzq9n</odePageId>
+      <odeBlockId>block-1777909227054-wilpbdi6d</odeBlockId>
+      <blockName>PRESENTACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfi-xk6vlzq9n</odePageId>
+          <odeBlockId>block-1777909227054-wilpbdi6d</odeBlockId>
+          <odeIdeviceId>idevice-1777909227053-jkjeia2tm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>                                             <strong>Un viaje interactivo por la Edad Moderna</strong> <br />En esta situación de aprendizaje nos adentraremos en una época llena de aventuras, cambios y grandes descubrimientos: la Edad Moderna. Un periodo fascinante en el que el mundo empezó a transformarse gracias a exploradores, inventores y personajes históricos muy importantes.</p>
+<p>A lo largo de esta experiencia, nos convertiremos en auténticos viajeros del tiempo, investigando cómo era la vida en la Edad Moderna, qué descubrimientos se realizaron y quiénes fueron sus protagonistas más destacados.</p>
+<p>Aprenderemos de forma activa y divertida, utilizando las nuevas tecnologías y trabajando en equipo. Seremos creadores de conocimiento, colaborando con nuestros compañeros para construir aprendizajes juntos.</p>
+<p> Nuestro gran reto final será crear, en grupos, una línea del tiempo digital en Canva, en la que recogeremos los acontecimientos más importantes de la Edad Moderna de forma clara, visual y creativa.</p>
+<p> Además, presentaremos nuestro trabajo al resto de la clase, explicando todo lo que hemos descubierto en este increíble viaje por el pasado.</p>
+<p> ¡Preparados para viajar en el tiempo, investigar, crear y convertirnos en expertos de la Edad Moderna!</p>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/ChatGPT Image 11 may 2026, 18_36_29.png" title="Portada SdA" width="1366" height="911" alt="" />
+<figcaption class="figcaption"><span class="author">Imagen generada mediante inteligencia artificial (ChatGPT – OpenAI, 2026).</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><a href="https://drive.google.com/file/d/1DmEHiWm-BCyQ1UCJ-iomSPWq9DIKwyQS/view?usp=sharing" title="">Infografía</a> de la presentación del proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777909227053-jkjeia2tm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>                                             <strong>Un viaje interactivo por la Edad Moderna</strong> <br />En esta situación de aprendizaje nos adentraremos en una época llena de aventuras, cambios y grandes descubrimientos: la Edad Moderna. Un periodo fascinante en el que el mundo empezó a transformarse gracias a exploradores, inventores y personajes históricos muy importantes.</p>\n<p>A lo largo de esta experiencia, nos convertiremos en auténticos viajeros del tiempo, investigando cómo era la vida en la Edad Moderna, qué descubrimientos se realizaron y quiénes fueron sus protagonistas más destacados.</p>\n<p>Aprenderemos de forma activa y divertida, utilizando las nuevas tecnologías y trabajando en equipo. Seremos creadores de conocimiento, colaborando con nuestros compañeros para construir aprendizajes juntos.</p>\n<p> Nuestro gran reto final será crear, en grupos, una línea del tiempo digital en Canva, en la que recogeremos los acontecimientos más importantes de la Edad Moderna de forma clara, visual y creativa.</p>\n<p> Además, presentaremos nuestro trabajo al resto de la clase, explicando todo lo que hemos descubierto en este increíble viaje por el pasado.</p>\n<p> ¡Preparados para viajar en el tiempo, investigar, crear y convertirnos en expertos de la Edad Moderna!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/ChatGPT Image 11 may 2026, 18_36_29.png\" title=\"Portada SdA\" width=\"1366\" height=\"911\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Imagen generada mediante inteligencia artificial (ChatGPT – OpenAI, 2026).</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><a href=\"https://drive.google.com/file/d/1DmEHiWm-BCyQ1UCJ-iomSPWq9DIKwyQS/view?usp=sharing\" title=\"\">Infografía</a> de la presentación del proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfi-xk6vlzq9n</odePageId>
+      <odeBlockId>block-1778518088057-eykh80piz</odeBlockId>
+      <blockName>NOS UBICAMOS EN LA HISTORIA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfi-xk6vlzq9n</odePageId>
+          <odeBlockId>block-1778518088057-eykh80piz</odeBlockId>
+          <odeIdeviceId>idevice-1778518088055-bku4vv8b9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_9mvfzjw4o">
+<figcaption class="figcaption header"><strong>EDADES de la HISTORIA para NIÑOS</strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/9EiyoXmsT-I" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author"> Clases Particulares en Ávila</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778518088055-bku4vv8b9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_9mvfzjw4o\">\n<figcaption class=\"figcaption header\"><strong>EDADES de la HISTORIA para NIÑOS</strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/9EiyoXmsT-I\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\"> Clases Particulares en Ávila</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1n9qfo-9sntebv1e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS PERSONALES</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfo-9sntebv1e</odePageId>
+      <odeBlockId>block-1778530881091-aa6obwvtz</odeBlockId>
+      <blockName>Internet, nuestro medio de transporte</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfo-9sntebv1e</odePageId>
+          <odeBlockId>block-1778530881091-aa6obwvtz</odeBlockId>
+          <odeIdeviceId>idevice-1778530881088-j2ugnbdmw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Estáis listos para el viaje interactivo? En esta Situación de Aprendizaje recorreremos juntos las autopistas de Internet, un lugar lleno de información, juegos, creatividad y nuevas formas de aprender. Pero, igual que no podemos conducir sin conocer las señales de tráfico, tampoco debemos navegar por Internet sin aprender sus normas.</p>
+<p>Para viajar de forma segura por la red y proteger vuestra información, es fundamental reconocer algunos peligros que pueden aparecer en el camino. Por tanto, antes de arrancar motores, haremos una breve parada para cargar nuestra maleta de consejos que debemos tener en cuenta para un viaje digital sin riesgos, donde seáis capaces de usar Internet de manera responsable, respetuosa y divertida. ¡El viaje comienza ahora!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778530881088-j2ugnbdmw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Estáis listos para el viaje interactivo? En esta Situación de Aprendizaje recorreremos juntos las autopistas de Internet, un lugar lleno de información, juegos, creatividad y nuevas formas de aprender. Pero, igual que no podemos conducir sin conocer las señales de tráfico, tampoco debemos navegar por Internet sin aprender sus normas.</p>\n<p>Para viajar de forma segura por la red y proteger vuestra información, es fundamental reconocer algunos peligros que pueden aparecer en el camino. Por tanto, antes de arrancar motores, haremos una breve parada para cargar nuestra maleta de consejos que debemos tener en cuenta para un viaje digital sin riesgos, donde seáis capaces de usar Internet de manera responsable, respetuosa y divertida. ¡El viaje comienza ahora!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfo-9sntebv1e</odePageId>
+      <odeBlockId>block-1778013092283-85fim3qeh</odeBlockId>
+      <blockName>Las normas de circulación para un viaje interactivo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfo-9sntebv1e</odePageId>
+          <odeBlockId>block-1778013092283-85fim3qeh</odeBlockId>
+          <odeIdeviceId>idevice-1778013092278-aw80axh48</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/“Internet seguro  ¡tú tienes el control!”.jpg" width="800" height="2000" alt="" /></figure>
+<figure class="exe-figure position-center" style="width: 800px;">
+<figcaption class="figcaption"><span class="author">Sara Castro López</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013092278-aw80axh48","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/“Internet seguro  ¡tú tienes el control!”.jpg\" width=\"800\" height=\"2000\" alt=\"\" /></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\">\n<figcaption class=\"figcaption\"><span class=\"author\">Sara Castro López</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfo-9sntebv1e</odePageId>
+      <odeBlockId>block-1778531603674-scu11qiha</odeBlockId>
+      <blockName>Vídeo sobre las reglas en internet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfo-9sntebv1e</odePageId>
+          <odeBlockId>block-1778531603674-scu11qiha</odeBlockId>
+          <odeIdeviceId>idevice-1778531603669-xb27bn4i3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_s3ia6bw58">
+<figcaption class="figcaption header"><strong>Navegando Seguro en Internet: Consejos para Niños </strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/SD9K8Pfogzc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">Planeta Preescolar</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778531603669-xb27bn4i3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_s3ia6bw58\">\n<figcaption class=\"figcaption header\"><strong>Navegando Seguro en Internet: Consejos para Niños </strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/SD9K8Pfogzc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Planeta Preescolar</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1n9qfs-qaqsimezq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CURACIÓN DE CONTENIDO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CURACIÓN DE CONTENIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfs-qaqsimezq</odePageId>
+      <odeBlockId>block-1778013398470-66p8xtefx</odeBlockId>
+      <blockName>Acceso al Padlet de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfs-qaqsimezq</odePageId>
+          <odeBlockId>block-1778013398470-66p8xtefx</odeBlockId>
+          <odeIdeviceId>idevice-1778013398465-9p9vtcn2s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace podéis acceder a un Padlet de la SdA  donde consultar vídeos y la información digital necesaria para realizar algunas actividades.  <a href="https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386">https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386</a> </p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-11 190043.png" title="captura del Padlet de la SdA" width="1349" height="481" alt="" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013398465-9p9vtcn2s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace podéis acceder a un Padlet de la SdA  donde consultar vídeos y la información digital necesaria para realizar algunas actividades.  <a href=\"https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386\">https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386</a> </p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-11 190043.png\" title=\"captura del Padlet de la SdA\" width=\"1349\" height=\"481\" alt=\"\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfs-qaqsimezq</odePageId>
+      <odeBlockId>block-1778013445842-2qn7d4ad6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfs-qaqsimezq</odePageId>
+          <odeBlockId>block-1778013445842-2qn7d4ad6</odeBlockId>
+          <odeIdeviceId>idevice-1778013445840-nhtduo22u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Herramientas que uso habitualmente para la gestión del aula para acceder a ellas fácilmente: <a href="https://www.diigo.com/outliner/oci4g9/Herramientas-para-la-gesti%C3%B3n-del-aula?key=8duv6azkgc">https://www.diigo.com/outliner/oci4g9/Herramientas-para-la-gesti%C3%B3n-del-aula?key=8duv6azkgc</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013445840-nhtduo22u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Herramientas que uso habitualmente para la gestión del aula para acceder a ellas fácilmente: <a href=\"https://www.diigo.com/outliner/oci4g9/Herramientas-para-la-gesti%C3%B3n-del-aula?key=8duv6azkgc\">https://www.diigo.com/outliner/oci4g9/Herramientas-para-la-gesti%C3%B3n-del-aula?key=8duv6azkgc</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1n9qfv-uyle92zxu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfv-uyle92zxu</odePageId>
+      <odeBlockId>block-1778014418932-jfpe03pbc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfv-uyle92zxu</odePageId>
+          <odeBlockId>block-1778014418932-jfpe03pbc</odeBlockId>
+          <odeIdeviceId>idevice-1778014418929-5399x1erh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: left;"><strong>                                          SECUENCIACIÓN DE ACTIVIDADES </strong></p>
+<p style="text-align: left;"><strong>           SdA: "UN VIAJE INTERACTIVO POR LA EDAD MODERNA"</strong><br /></p>
+<p style="text-align: left;"><a href="https://docs.google.com/document/d/1HCJ_icLw2URIDC-06FMDjz7U5Fp5PX0Ke8PPdiLI1Ws/edit?usp=sharing" title=""> Criterios de evaluación de cada actividad.</a></p>
+<p> <br /><strong> FASE 1: MOTIVACIÓN (1 sesión)</strong><br /><strong>1. El cofre misterioso</strong><br />En clase aparece un cofre cerrado con un mensaje antiguo. Con pistas, descubriremos a qué etapa histórica pertenece. El reto final será crear una línea del tiempo digital para ordenar la historia.</p>
+<p> <br /><strong> FASE 2: ACTIVACIÓN (1 sesión)</strong><br /><strong>2. La máquina del tiempo</strong><br />Compartimos ideas en la pizarra digital: ¿Qué sabes de la Edad Moderna? Entre todos descubriremos lo que ya sabemos y corregiremos ideas.</p>
+<p> <br /><strong>FASE 3: EXPLORACIÓN (2 sesiones)</strong><br /><strong>3. El mapa del tiempo</strong><br />Exploramos una infografía digital con los hechos más importantes de la Edad Moderna y respondemos preguntas en Google Docs.</p>
+<p>Acceso a la infografía: <a href="https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386/wish/E851Q0OK8lzXaVAb">https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386/wish/E851Q0OK8lzXaVAb</a></p>
+<p>Acceso a las preguntas: <a href="https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386/wish/E1P8aXprx05yawA9">https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386/wish/E1P8aXprx05yawA9</a></p>
+<p><br /></p>
+<p><strong>4. Cazadores de datos</strong><br />En grupos, buscamos en vídeos y textos curiosidades nuevas sobre la Edad Moderna que no aparecían antes. </p>
+<p>Debéis ver los vídeos del siguiente enlace: <a href="https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386">https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386</a> </p>
+<p> <br /><strong>FASE 4: ESTRUCTURACIÓN (4 sesiones)</strong><br /><strong>5. Lecturas de otra época</strong><br />Leemos textos sobre la sociedad, el Siglo de Oro y las dinastías. Subrayamos ideas importantes y trabajamos en equipo.</p>
+<p><br /></p>
+<p><strong>6. Trivial histórico y boceto</strong><br />Practicamos con los siguientes juegos online para repasar y después diseñamos en papel nuestra línea del tiempo con los hechos más importantes.</p>
+<p><a href="https://wordwall.net/resource/17817602/edad-moderna" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-11 192320.png" width="359" height="191" alt="" /></a></p>
+<p><br /></p>
+<p><a href="https://wordwall.net/resource/14108006/edad-moderna" title=""><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-11 192344.png" width="350" height="183" alt="" /></a></p>
+<p> <br /><strong> FASE 5: APLICACIÓN (3 sesiones)</strong><br /><strong>7. Creamos nuestra línea del tiempo digital</strong><br />Usamos Canva para transformar nuestro boceto en una línea del tiempo digital con textos, imágenes y diseño creativo.</p>
+<p>Seguid las instrucciones de "PRODUCTO FINAL"</p>
+<p> <br /><strong> FASE 6: CONCLUSIÓN (1 sesión)</strong><br /><strong>8. Gran exposición</strong><br />Presentamos nuestras líneas del tiempo al resto de la clase, explicamos nuestro trabajo y nos evaluamos entre compañeros y en equipo.</p>
+<p>USAD LA DIANA DE EVALUACIÓN </p>
+<p><strong>Temporalización total:</strong> 12 sesiones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778014418929-5399x1erh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\"><strong>                                          SECUENCIACIÓN DE ACTIVIDADES </strong></p>\n<p style=\"text-align: left;\"><strong>           SdA: \"UN VIAJE INTERACTIVO POR LA EDAD MODERNA\"</strong><br /></p>\n<p style=\"text-align: left;\"><a href=\"https://docs.google.com/document/d/1HCJ_icLw2URIDC-06FMDjz7U5Fp5PX0Ke8PPdiLI1Ws/edit?usp=sharing\" title=\"\"> Criterios de evaluación de cada actividad.</a></p>\n<p> <br /><strong> FASE 1: MOTIVACIÓN (1 sesión)</strong><br /><strong>1. El cofre misterioso</strong><br />En clase aparece un cofre cerrado con un mensaje antiguo. Con pistas, descubriremos a qué etapa histórica pertenece. El reto final será crear una línea del tiempo digital para ordenar la historia.</p>\n<p> <br /><strong> FASE 2: ACTIVACIÓN (1 sesión)</strong><br /><strong>2. La máquina del tiempo</strong><br />Compartimos ideas en la pizarra digital: ¿Qué sabes de la Edad Moderna? Entre todos descubriremos lo que ya sabemos y corregiremos ideas.</p>\n<p> <br /><strong>FASE 3: EXPLORACIÓN (2 sesiones)</strong><br /><strong>3. El mapa del tiempo</strong><br />Exploramos una infografía digital con los hechos más importantes de la Edad Moderna y respondemos preguntas en Google Docs.</p>\n<p>Acceso a la infografía: <a href=\"https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386/wish/E851Q0OK8lzXaVAb\">https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386/wish/E851Q0OK8lzXaVAb</a></p>\n<p>Acceso a las preguntas: <a href=\"https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386/wish/E1P8aXprx05yawA9\">https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386/wish/E1P8aXprx05yawA9</a></p>\n<p><br /></p>\n<p><strong>4. Cazadores de datos</strong><br />En grupos, buscamos en vídeos y textos curiosidades nuevas sobre la Edad Moderna que no aparecían antes. </p>\n<p>Debéis ver los vídeos del siguiente enlace: <a href=\"https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386\">https://padlet.com/scaslop830/un-viaje-interactivo-por-la-edad-moderna-p3vh5mftw418s386</a> </p>\n<p> <br /><strong>FASE 4: ESTRUCTURACIÓN (4 sesiones)</strong><br /><strong>5. Lecturas de otra época</strong><br />Leemos textos sobre la sociedad, el Siglo de Oro y las dinastías. Subrayamos ideas importantes y trabajamos en equipo.</p>\n<p><br /></p>\n<p><strong>6. Trivial histórico y boceto</strong><br />Practicamos con los siguientes juegos online para repasar y después diseñamos en papel nuestra línea del tiempo con los hechos más importantes.</p>\n<p><a href=\"https://wordwall.net/resource/17817602/edad-moderna\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-11 192320.png\" width=\"359\" height=\"191\" alt=\"\" /></a></p>\n<p><br /></p>\n<p><a href=\"https://wordwall.net/resource/14108006/edad-moderna\" title=\"\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-11 192344.png\" width=\"350\" height=\"183\" alt=\"\" /></a></p>\n<p> <br /><strong> FASE 5: APLICACIÓN (3 sesiones)</strong><br /><strong>7. Creamos nuestra línea del tiempo digital</strong><br />Usamos Canva para transformar nuestro boceto en una línea del tiempo digital con textos, imágenes y diseño creativo.</p>\n<p>Seguid las instrucciones de \"PRODUCTO FINAL\"</p>\n<p> <br /><strong> FASE 6: CONCLUSIÓN (1 sesión)</strong><br /><strong>8. Gran exposición</strong><br />Presentamos nuestras líneas del tiempo al resto de la clase, explicamos nuestro trabajo y nos evaluamos entre compañeros y en equipo.</p>\n<p>USAD LA DIANA DE EVALUACIÓN </p>\n<p><strong>Temporalización total:</strong> 12 sesiones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1n9qfw-gnnastggz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LÍNEA TEMPORAL DEL PROYECTO</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LÍNEA TEMPORAL DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfw-gnnastggz</odePageId>
+      <odeBlockId>block-1778013592790-9l3byr5vo</odeBlockId>
+      <blockName>ETAPAS DE NUESTRO VIAJE INTERACTIVO</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfw-gnnastggz</odePageId>
+          <odeBlockId>block-1778013592790-9l3byr5vo</odeBlockId>
+          <odeIdeviceId>idevice-1778013592785-tpmwd5m9z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 1366px;"></figure>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/7.1. Línea temporal para la organización.png" width="1366" height="768" alt="" /></figure>
+<figure class="exe-figure position-center" style="width: 1366px;">
+<figcaption class="figcaption"><span class="author">Sara Castro López</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013592785-tpmwd5m9z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/7.1. Línea temporal para la organización.png\" width=\"1366\" height=\"768\" alt=\"\" /></figure>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\">\n<figcaption class=\"figcaption\"><span class=\"author\">Sara Castro López</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1n9qfx-wnyyaeoyr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfx-wnyyaeoyr</odePageId>
+      <odeBlockId>block-1778013228664-isw12sulc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfx-wnyyaeoyr</odePageId>
+          <odeBlockId>block-1778013228664-isw12sulc</odeBlockId>
+          <odeIdeviceId>idevice-1778013228661-h54y2nawe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Ha llegado el momento de convertiros en auténticos exploradores de la Historia!<br />Después de todo lo aprendido sobre la Edad Moderna, vais a trabajar en equipo para crear un producto final original, creativo e interactivo.</p>
+<p>En grupos de 4 o 5 compañeros, diseñaréis en Canva una línea del tiempo digital en la que aparecerán los acontecimientos, personajes e inventos más importantes de esta etapa histórica.</p>
+<p>📜 <strong>¿Qué debe incluir vuestra línea del tiempo?</strong></p>
+<p>Los hechos más importantes de la Edad Moderna.<br />Fechas clave ordenadas cronológicamente.<br />Imágenes, dibujos o elementos visuales atractivos.<br />Breves explicaciones claras y fáciles de entender.<br />Creatividad y buen trabajo en equipo.</p>
+<p><br />🎨 Podréis usar diferentes diseños, colores, iconos y recursos interactivos para que vuestra línea del tiempo sea dinámica y sorprendente.</p>
+<p>🚢 Desde los grandes descubrimientos geográficos hasta los avances científicos y culturales… vuestro trabajo deberá mostrar cómo cambió el mundo durante la Edad Moderna.</p>
+<p>💡 Recordad:</p>
+<p>Todos los miembros del grupo deben participar.<br />Organizad bien las tareas.<br />Revisad la información antes de entregarla.<br />¡Disfrutad creando juntos!</p>
+<p><br />🏆 Al final, cada grupo presentará su línea del tiempo al resto de la clase y realizaremos un auténtico viaje interactivo por la Edad Moderna.</p>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/384bb75f-b880-48a1-a343-c2f86f148fba.png" width="1366" height="911" alt="" />
+<figcaption class="figcaption">Imagen generada mediante inteligencia artificial (ChatGPT – OpenAI, 2026).. (Dominio público) <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013228661-h54y2nawe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Ha llegado el momento de convertiros en auténticos exploradores de la Historia!<br />Después de todo lo aprendido sobre la Edad Moderna, vais a trabajar en equipo para crear un producto final original, creativo e interactivo.</p>\n<p>En grupos de 4 o 5 compañeros, diseñaréis en Canva una línea del tiempo digital en la que aparecerán los acontecimientos, personajes e inventos más importantes de esta etapa histórica.</p>\n<p>📜 <strong>¿Qué debe incluir vuestra línea del tiempo?</strong></p>\n<p>Los hechos más importantes de la Edad Moderna.<br />Fechas clave ordenadas cronológicamente.<br />Imágenes, dibujos o elementos visuales atractivos.<br />Breves explicaciones claras y fáciles de entender.<br />Creatividad y buen trabajo en equipo.</p>\n<p><br />🎨 Podréis usar diferentes diseños, colores, iconos y recursos interactivos para que vuestra línea del tiempo sea dinámica y sorprendente.</p>\n<p>🚢 Desde los grandes descubrimientos geográficos hasta los avances científicos y culturales… vuestro trabajo deberá mostrar cómo cambió el mundo durante la Edad Moderna.</p>\n<p>💡 Recordad:</p>\n<p>Todos los miembros del grupo deben participar.<br />Organizad bien las tareas.<br />Revisad la información antes de entregarla.<br />¡Disfrutad creando juntos!</p>\n<p><br />🏆 Al final, cada grupo presentará su línea del tiempo al resto de la clase y realizaremos un auténtico viaje interactivo por la Edad Moderna.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/384bb75f-b880-48a1-a343-c2f86f148fba.png\" width=\"1366\" height=\"911\" alt=\"\" />\n<figcaption class=\"figcaption\">Imagen generada mediante inteligencia artificial (ChatGPT – OpenAI, 2026).. (Dominio público) <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1n9qfz-z407qmpqk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRITERIOS DE EVALUACIÓN DE LAS ACTIVIDADES</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN DE LAS ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN DE LAS ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qfz-z407qmpqk</odePageId>
+      <odeBlockId>block-1778013761597-l7zjglljc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qfz-z407qmpqk</odePageId>
+          <odeBlockId>block-1778013761597-l7zjglljc</odeBlockId>
+          <odeIdeviceId>idevice-1778013761592-vl5zuplgs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace están recogidos los criterios de evaluación de cada actividad del proyecto así como su temporalización, agrupamiento y los recursos necesarios.</p>
+<p><a href="https://docs.google.com/document/d/1HCJ_icLw2URIDC-06FMDjz7U5Fp5PX0Ke8PPdiLI1Ws/edit?usp=sharing">https://docs.google.com/document/d/1HCJ_icLw2URIDC-06FMDjz7U5Fp5PX0Ke8PPdiLI1Ws/edit?usp=sharing</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013761592-vl5zuplgs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace están recogidos los criterios de evaluación de cada actividad del proyecto así como su temporalización, agrupamiento y los recursos necesarios.</p>\n<p><a href=\"https://docs.google.com/document/d/1HCJ_icLw2URIDC-06FMDjz7U5Fp5PX0Ke8PPdiLI1Ws/edit?usp=sharing\">https://docs.google.com/document/d/1HCJ_icLw2URIDC-06FMDjz7U5Fp5PX0Ke8PPdiLI1Ws/edit?usp=sharing</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1n9qg0-7ic2xg4bx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qg0-7ic2xg4bx</odePageId>
+      <odeBlockId>block-1778013879372-g2s2zn10m</odeBlockId>
+      <blockName>Instrumento de evaluación para los viajeros</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qg0-7ic2xg4bx</odePageId>
+          <odeBlockId>block-1778013879372-g2s2zn10m</odeBlockId>
+          <odeIdeviceId>idevice-1778013879369-0kazwuy6t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta diana de evaluación será el instrumento que usaréis para valorar el paso número 8 de nuestro viaje interactivo <strong>"Gran exposición"</strong>. Con ella, evaluaréis en equipo el producto final que habéis creado, es decir, vuestra línea del tiempo. El objetivo es valorar qué se puede mejorar y pensar propuestas de mejora al respecto.  RECORDAD: debéis ser objetivos con vuestro trabajo</p>
+<p><br /></p>
+<figure class="exe-figure position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/diana de eval.jpg" width="1366" height="966" alt="" />
+<figcaption class="figcaption"><span class="author">Sara Castro López</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p>
+<p><strong>Podéis seguir estas recomendaciones para hacer la evaluación: </strong></p>
+<p><strong>Ejes de la Diana (Indicadores a evaluar)</strong><br />Aquí tienes los 5 aspectos clave que el equipo debe valorar sobre su propio desempeño y producto final:</p>
+<p><strong>Eje 1: Trabajo en equipo y roles. ¿Hemos colaborado todos por igual y respetado nuestro rol?</strong><br /><strong>Eje 2: Contenido histórico. ¿La información de nuestra línea del tiempo sobre la Edad Moderna es correcta y completa?</strong><br /><strong>Eje 3: Uso de la tecnología (Canva). ¿Hemos usado Canva de forma segura y hemos creado un diseño atractivo y ordenado?</strong><br /><strong>Eje 4: Resolución de problemas. ¿Hemos sabido organizarnos, pasar del boceto al digital y solucionar las dudas juntos?</strong><br /><strong>Eje 5: Exposición oral. ¿Hemos explicado nuestro trabajo al resto de la clase de forma clara y segura?</strong><br /> <br /><em><strong>¿QUÉ DEBÉIS HACER</strong></em><strong>?</strong> <strong>INSTRUCCIONES</strong></p>
+<p>Leer los siguientes niveles para cada eje de la diana. Identificar el que mejor consideréis para vuestro producto final. Debe ser una decisión conjunta. Colorear los ejes de la diana según el color/nivel seleccionado.<br /><br /></p>
+<p><strong>1. Trabajo en equipo y roles</strong><br />Nivel 1 (Rojo): Nos ha costado mucho ponernos de acuerdo y algunos no han hecho su parte.<br />Nivel 2 (Naranja): Hemos trabajado juntos, pero a veces no hemos respetado los turnos o los roles.<br />Nivel 3 (Amarillo): Hemos colaborado bien y casi siempre hemos cumplido con nuestras responsabilidades.<br />Nivel 4 (Verde): ¡Somos un equipazo! Todos hemos participado, ayudado a los demás y cumplido nuestro rol a la perfección.</p>
+<p><br /><strong>2. Contenido histórico (Edad Moderna)</strong><br />Nivel 1 (Rojo): Nos faltan muchos datos o hemos puesto fechas equivocadas.<br />Nivel 2 (Naranja): Tenemos la información básica, pero nos falta algún acontecimiento importante o dato curioso.<br />Nivel 3 (Amarillo): La información es correcta y hemos incluido casi todos los hechos importantes que pide el profesor/a.<br />Nivel 4 (Verde): La información es excelente, muy bien seleccionada, sin errores y fácil de entender.</p>
+<p><br /><strong>3. Uso de la tecnología (Canva)</strong><br />Nivel 1 (Rojo): Nos ha costado mucho usar la aplicación y el diseño está desordenado.<br />Nivel 2 (Naranja): Hemos hecho la línea del tiempo digital, pero las imágenes o las letras no se ven del todo bien.<br />Nivel 3 (Amarillo): Hemos usado Canva sin muchos problemas y el diseño final es bastante bonito.<br />Nivel 4 (Verde): Dominamos la herramienta. El diseño es súper creativo, ordenado, interactivo y muy visual.</p>
+<p><br /><strong>4. Resolución de problemas (Boceto a Digital)</strong><br />Nivel 1 (Rojo): Nos perdimos al pasar del papel al ordenador y nos desanimamos con los fallos.<br />Nivel 2 (Naranja): Tuvimos varios problemas y tuvimos que pedir ayuda al profesor/a constantemente.<br />Nivel 3 (Amarillo): Conseguimos pasar el boceto a digital bastante bien, solucionando la mayoría de los contratiempos entre nosotros.<br />Nivel 4 (Verde): Fuimos muy autónomos. Organizamos muy bien nuestras ideas del papel a la pantalla y resolvimos todas las dificultades rápidamente.</p>
+<p><br /><strong>5. Exposición oral</strong><br />Nivel 1 (Rojo): Estábamos muy nerviosos, hemos leído todo el rato y casi no se nos escuchaba.<br />Nivel 2 (Naranja): Hemos explicado el trabajo, pero a veces no mirábamos a los compañeros o no se entendía bien.<br />Nivel 3 (Amarillo): Hemos hablado alto y claro, explicando cómo hemos hecho el diseño casi sin leer.<br />Nivel 4 (Verde): Hemos hecho una presentación genial. Explicamos con seguridad, captamos la atención de la clase y respondimos genial a las preguntas.<br /></p>
+<p></p>
+<p>Puede consultarse con más detalle en este enlace: <a href="https://docs.google.com/document/d/1WmNqseffHL7ZXHehdKkxRrKerWa-Bpp4pkSSaPAQG1A/edit?usp=sharing">https://docs.google.com/document/d/1WmNqseffHL7ZXHehdKkxRrKerWa-Bpp4pkSSaPAQG1A/edit?usp=sharing</a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013879369-0kazwuy6t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta diana de evaluación será el instrumento que usaréis para valorar el paso número 8 de nuestro viaje interactivo <strong>\"Gran exposición\"</strong>. Con ella, evaluaréis en equipo el producto final que habéis creado, es decir, vuestra línea del tiempo. El objetivo es valorar qué se puede mejorar y pensar propuestas de mejora al respecto.  RECORDAD: debéis ser objetivos con vuestro trabajo</p>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/diana de eval.jpg\" width=\"1366\" height=\"966\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Sara Castro López</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p>\n<p><strong>Podéis seguir estas recomendaciones para hacer la evaluación: </strong></p>\n<p><strong>Ejes de la Diana (Indicadores a evaluar)</strong><br />Aquí tienes los 5 aspectos clave que el equipo debe valorar sobre su propio desempeño y producto final:</p>\n<p><strong>Eje 1: Trabajo en equipo y roles. ¿Hemos colaborado todos por igual y respetado nuestro rol?</strong><br /><strong>Eje 2: Contenido histórico. ¿La información de nuestra línea del tiempo sobre la Edad Moderna es correcta y completa?</strong><br /><strong>Eje 3: Uso de la tecnología (Canva). ¿Hemos usado Canva de forma segura y hemos creado un diseño atractivo y ordenado?</strong><br /><strong>Eje 4: Resolución de problemas. ¿Hemos sabido organizarnos, pasar del boceto al digital y solucionar las dudas juntos?</strong><br /><strong>Eje 5: Exposición oral. ¿Hemos explicado nuestro trabajo al resto de la clase de forma clara y segura?</strong><br /> <br /><em><strong>¿QUÉ DEBÉIS HACER</strong></em><strong>?</strong> <strong>INSTRUCCIONES</strong></p>\n<p>Leer los siguientes niveles para cada eje de la diana. Identificar el que mejor consideréis para vuestro producto final. Debe ser una decisión conjunta. Colorear los ejes de la diana según el color/nivel seleccionado.<br /><br /></p>\n<p><strong>1. Trabajo en equipo y roles</strong><br />Nivel 1 (Rojo): Nos ha costado mucho ponernos de acuerdo y algunos no han hecho su parte.<br />Nivel 2 (Naranja): Hemos trabajado juntos, pero a veces no hemos respetado los turnos o los roles.<br />Nivel 3 (Amarillo): Hemos colaborado bien y casi siempre hemos cumplido con nuestras responsabilidades.<br />Nivel 4 (Verde): ¡Somos un equipazo! Todos hemos participado, ayudado a los demás y cumplido nuestro rol a la perfección.</p>\n<p><br /><strong>2. Contenido histórico (Edad Moderna)</strong><br />Nivel 1 (Rojo): Nos faltan muchos datos o hemos puesto fechas equivocadas.<br />Nivel 2 (Naranja): Tenemos la información básica, pero nos falta algún acontecimiento importante o dato curioso.<br />Nivel 3 (Amarillo): La información es correcta y hemos incluido casi todos los hechos importantes que pide el profesor/a.<br />Nivel 4 (Verde): La información es excelente, muy bien seleccionada, sin errores y fácil de entender.</p>\n<p><br /><strong>3. Uso de la tecnología (Canva)</strong><br />Nivel 1 (Rojo): Nos ha costado mucho usar la aplicación y el diseño está desordenado.<br />Nivel 2 (Naranja): Hemos hecho la línea del tiempo digital, pero las imágenes o las letras no se ven del todo bien.<br />Nivel 3 (Amarillo): Hemos usado Canva sin muchos problemas y el diseño final es bastante bonito.<br />Nivel 4 (Verde): Dominamos la herramienta. El diseño es súper creativo, ordenado, interactivo y muy visual.</p>\n<p><br /><strong>4. Resolución de problemas (Boceto a Digital)</strong><br />Nivel 1 (Rojo): Nos perdimos al pasar del papel al ordenador y nos desanimamos con los fallos.<br />Nivel 2 (Naranja): Tuvimos varios problemas y tuvimos que pedir ayuda al profesor/a constantemente.<br />Nivel 3 (Amarillo): Conseguimos pasar el boceto a digital bastante bien, solucionando la mayoría de los contratiempos entre nosotros.<br />Nivel 4 (Verde): Fuimos muy autónomos. Organizamos muy bien nuestras ideas del papel a la pantalla y resolvimos todas las dificultades rápidamente.</p>\n<p><br /><strong>5. Exposición oral</strong><br />Nivel 1 (Rojo): Estábamos muy nerviosos, hemos leído todo el rato y casi no se nos escuchaba.<br />Nivel 2 (Naranja): Hemos explicado el trabajo, pero a veces no mirábamos a los compañeros o no se entendía bien.<br />Nivel 3 (Amarillo): Hemos hablado alto y claro, explicando cómo hemos hecho el diseño casi sin leer.<br />Nivel 4 (Verde): Hemos hecho una presentación genial. Explicamos con seguridad, captamos la atención de la clase y respondimos genial a las preguntas.<br /></p>\n<p></p>\n<p>Puede consultarse con más detalle en este enlace: <a href=\"https://docs.google.com/document/d/1WmNqseffHL7ZXHehdKkxRrKerWa-Bpp4pkSSaPAQG1A/edit?usp=sharing\">https://docs.google.com/document/d/1WmNqseffHL7ZXHehdKkxRrKerWa-Bpp4pkSSaPAQG1A/edit?usp=sharing</a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp1n9qg0-7ic2xg4bx</odePageId>
+      <odeBlockId>block-1778013946452-g0dmz65jc</odeBlockId>
+      <blockName>Instrumentos de evaluación para el comandante</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qg0-7ic2xg4bx</odePageId>
+          <odeBlockId>block-1778013946452-g0dmz65jc</odeBlockId>
+          <odeIdeviceId>idevice-1778013946449-opzt4e6u4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este <a href="https://docs.google.com/document/d/1WmNqseffHL7ZXHehdKkxRrKerWa-Bpp4pkSSaPAQG1A/edit?usp=sharing" title="">enlace</a> también se describe una rúbrica de evaluación para valorar el producto final pero en este caso, para uso del docente.</p>
+<p><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013946449-opzt4e6u4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este <a href=\"https://docs.google.com/document/d/1WmNqseffHL7ZXHehdKkxRrKerWa-Bpp4pkSSaPAQG1A/edit?usp=sharing\" title=\"\">enlace</a> también se describe una rúbrica de evaluación para valorar el producto final pero en este caso, para uso del docente.</p>\n<p><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp1n9qg1-v7lmbldmh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp1n9qg1-v7lmbldmh</odePageId>
+      <odeBlockId>block-1778515940715-991jey5vq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp1n9qg1-v7lmbldmh</odePageId>
+          <odeBlockId>block-1778515940715-991jey5vq</odeBlockId>
+          <odeIdeviceId>idevice-1778515940710-83jrwh76i</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">“UN VIAJE  INTERACTIVO POR LA  EDAD MODERNA”</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">La situación de aprendizaje aborda la Edad Moderna como un periodo de grandes cambios históricos, centrándose en los descubrimientos, personajes relevantes y formas de vida de la época. Está destinada a 5º de Educación Primaria y se lleva a cabo desde el área de Conocimiento del Medio.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Sara Castro López</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
